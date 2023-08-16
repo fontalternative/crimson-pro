@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Crimson Pro';
+    src: url('./variable/CrimsonPro-Italic-VariableFont_wght.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 200 900;
+}
+
+@font-face {
+    font-family: 'Crimson Pro';
+    src: url('./variable/CrimsonPro-VariableFont_wght.ttf') format('ttf');
+    font-style: italic;
+    font-weight: 200 900;
+}
